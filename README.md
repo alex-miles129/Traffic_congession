@@ -117,7 +117,7 @@ This repo provides a strong reproduction pipeline and a tuned configuration. Act
 If you use this work, please cite the paper:
 
 ```text
-Mahato, A. K., Satwik, K., & Tiwari, U. (2025).
+Abhigyan Kumar Mahato, Kumar Satwik, & Upasana Tiwari,(2026).
 Intelligent Traffic Congestion Prediction Using Deep Learning, Historical Learning & Live Traffic Inference.
 ```
 
