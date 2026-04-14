@@ -16,10 +16,10 @@ The project implements a hybrid congestion prediction framework that combines:
 ## Key Results (from the paper)
 
 The proposed hybrid framework reports:
-- Accuracy: `91.3%`
-- MAE: `2.9`
-- RMSE: `4.3`
-- MAPE: `7.2%`
+- Accuracy: `91.31%`
+- MAE: `2.61`
+- RMSE: `4.32`
+- MAPE: `7.21%`
 
 These results are attributed to attention focus on critical temporal patterns, ensemble learning to reduce variance, and live traffic integration for responsiveness.
 
