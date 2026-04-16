@@ -124,4 +124,4 @@ Intelligent Traffic Congestion Prediction Using Deep Learning, Historical Learni
 ## Contact
 
 Corresponding Author: Abhigyan Kumar Mahato  
-Email: mastermindagaming@gmail.com
+Email: mastermindaggaming@gmail.com
